@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">CheckBox-03</string>
+    <string name="chk_ios">IPhone</string>
+    <string name="chk_android">Android</string>
+    <string name="chk_windows">Windows Mobile</string>
+    <string name="btn_display">Escolha uma Opção</string>
+
+</resources>

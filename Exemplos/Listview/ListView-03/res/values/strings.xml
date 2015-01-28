@@ -1,0 +1,6 @@
+<resources>
+
+    <string name="app_name">ListView-03</string>
+    <string name="msg_botao">Selecione o Mes Desejado</string>
+
+</resources>

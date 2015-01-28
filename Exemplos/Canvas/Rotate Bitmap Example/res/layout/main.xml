@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:background="#ff003366"
+    android:orientation="horizontal" >
+
+    <com.wglxy.demo.rotate.StarshipView
+        android:id="@+id/ship1"
+        android:layout_width="96dp"
+        android:layout_height="96dp"
+        android:layout_gravity="center" 
+        android:background="#ff006699"
+        android:layout_margin="16dp" 
+        android:onClick="onClickView"
+       />
+
+    <com.wglxy.demo.rotate.StarshipView
+        android:id="@+id/ship2"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_gravity="center" 
+        android:background="#ff006699"
+        android:layout_margin="16dp" 
+        android:onClick="onClickView"
+       />
+
+</LinearLayout>
+
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center|bottom"
+    android:orientation="horizontal" >
+
+    <Button
+        android:id="@+id/rotate_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center" 
+        android:layout_margin="8dp" 
+        android:text="Rotate"
+        android:onClick="onClick"
+       />
+    <Button
+        android:id="@+id/scale_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center" 
+        android:layout_margin="8dp" 
+        android:text="Scale"
+        android:onClick="onClick"
+       />
+    <Button
+        android:id="@+id/offset_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center" 
+        android:layout_margin="8dp" 
+        android:text="Offset"
+        android:onClick="onClick"
+       />
+</LinearLayout>
+
+</FrameLayout>

@@ -1,0 +1,44 @@
+<RelativeLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+    <Button
+        android:id="@+id/idBtnInsereDados" 		
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/idBtnCriaBanco"
+        android:layout_alignParentTop="true"
+        android:layout_alignRight="@+id/idBtnDeletaDados"
+        android:layout_marginTop="58dp"
+        android:text="Insere Dados" />
+    <Button
+        android:id="@+id/idBtnCriaBanco"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/idBtnDeletaDados"
+        android:layout_alignRight="@+id/idBtnDeletaDados"
+        android:layout_below="@+id/idBtnInsereDados"
+        android:text="Cria Banco" />
+    <Button
+        android:id="@+id/idBtnDeletaDados"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/idBtnRemoveBanco"
+        android:layout_alignRight="@+id/idBtnRemoveBanco"
+        android:layout_below="@+id/idBtnCriaBanco"
+        android:text="Deleta Dados" />
+    <Button
+        android:id="@+id/idBtnRemoveBanco"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/idBtnDeletaDados"
+        android:layout_centerHorizontal="true"
+        android:text="Remove Banco" />
+    <Button
+        android:id="@+id/idBtnUpdateBanco"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/idBtnRemoveBanco"
+        android:layout_below="@+id/idBtnRemoveBanco"
+        android:text="Atualiza Banco" />
+</RelativeLayout>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Layout-13</string>
+    <string name="title_activity_main">Gerencia de Orientação</string>
+    <string name="title_activity_automatic">Detecção da Orientação</string>
+    <string name="title_acivity_restricted">Restringindo a Orientação</string>
+    <string name="landscape_orientation">Estamos com Orientação Landscape</string>
+    <string name="portrait_orientation">Estamos com Orientação Portrait</string>
+    <string name="bt_automatic_orientation">Orientação Automática</string>
+    <string name="bt_restricted_orientation">Restrição de Orientação</string>
+</resources>

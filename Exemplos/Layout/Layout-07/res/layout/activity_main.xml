@@ -1,0 +1,49 @@
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="#B0C4DE"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent" >
+	
+	<TextView
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="@string/TxtNome" />
+	
+	<EditText 
+		android:inputType="text"  
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:textColor="#ff0000" />
+	
+	<TextView
+		 android:layout_width="wrap_content"
+		 android:layout_height="wrap_content"
+		 android:text="@string/TxtEmail" />
+    
+	<EditText 
+		android:inputType="text"  
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content" />
+		
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="@string/TxtObservacao" />
+
+	<EditText 
+		android:inputType="text"  
+		android:layout_width="fill_parent"
+		android:maxLength="10"
+		android:layout_height="0dp"
+		android:layout_weight="1" />
+  
+	<Button
+		android:id="@+id/Btn_Send"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="@string/TxtEnviar" />
+	
+</LinearLayout>
+
+    

@@ -1,0 +1,53 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+
+    <Button
+        android:id="@+id/btnDebug"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btnVerbose"
+        android:layout_alignParentTop="true"
+        android:layout_alignRight="@+id/btnError"
+        android:layout_marginTop="103dp"
+        android:text="Log Debug" />
+
+    <Button
+        android:id="@+id/btnError"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btnInfo"
+        android:layout_alignRight="@+id/btnInfo"
+        android:layout_below="@+id/btnDebug"
+        android:text="Log Error" />
+
+    <Button
+        android:id="@+id/btnWarning"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btnError"
+        android:layout_alignRight="@+id/btnInfo"
+        android:layout_below="@+id/btnError"
+        android:text="Log Warning" />
+
+    <Button
+        android:id="@+id/btnInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnWarning"
+        android:layout_centerHorizontal="true"
+        android:text="Log Information" />
+
+    <Button
+        android:id="@+id/btnVerbose"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/btnDebug"
+        android:layout_alignLeft="@+id/btnInfo"
+        android:layout_alignRight="@+id/btnError"
+        android:layout_marginBottom="48dp"
+        android:text="Log Verbose" />
+
+</RelativeLayout>

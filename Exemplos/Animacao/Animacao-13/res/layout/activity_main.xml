@@ -1,0 +1,30 @@
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/idLayout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"     
+    android:background="#B0C4DE">
+
+    <Button
+        android:id="@+id/idBotao1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="Botão #1" />
+
+    <Button
+        android:id="@+id/idBotao2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="Botão #2" />
+
+    <Button
+        android:id="@+id/idBotao3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="Botão #3" />
+
+</LinearLayout>

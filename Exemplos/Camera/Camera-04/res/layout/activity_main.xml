@@ -1,0 +1,28 @@
+<RelativeLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <SurfaceView
+        android:id="@+id/CameraView"
+        android:layout_width="fill_parent"
+        android:layout_height="350dp" >
+    </SurfaceView>
+
+    <Button
+        android:id="@+id/idBtnFrontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/CameraView"
+        android:text="Frontal" />
+
+    <Button
+        android:id="@+id/idBtnTrazeira"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/idBtnFrontal"
+        android:text="Trazeira" />
+
+</RelativeLayout>

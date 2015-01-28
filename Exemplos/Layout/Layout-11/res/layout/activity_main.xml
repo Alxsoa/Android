@@ -1,0 +1,56 @@
+<TableLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:background="#B0C4DE"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:stretchColumns="1">
+
+	<TextView 
+	    android:text="@string/txtProdutos" />
+	<View 
+	    android:layout_height="2dip" 
+	    android:background="#FF909090" />
+
+	<TableRow>
+	    <TextView 
+          android:text="@string/txtProdutoA" />
+	    <TextView 
+	        android:text="@string/txtPrecoA" 
+	        android:layout_gravity="right"/>
+	</TableRow>
+
+	<TableRow>
+	    <TextView 
+	        android:text="@string/txtProdutoB" />
+	    <TextView 
+	        android:text="@string/txtPrecoB"
+	        android:layout_gravity="right"/>
+	</TableRow>
+	
+	<TableRow>
+	    <TextView 
+          android:text="@string/txtProdutoC" />
+	    <TextView 
+	        android:text="@string/txtPrecoC"
+	        android:layout_gravity="right"/>
+	</TableRow>
+
+	<LinearLayout
+	    android:layout_width="wrap_content"
+	    android:layout_height="fill_parent"
+	    android:gravity="bottom" >
+	    
+	<Button 
+	    android:layout_width="wrap_content"
+	    android:layout_height="35dip" 
+	    android:text="@string/btnCancelar"/>
+	
+	<Button 
+	    android:layout_width="wrap_content"
+	    android:layout_height="35dip" 
+	    android:text="@string/btnComprar" />
+	</LinearLayout>
+
+</TableLayout>
+

@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">WiFi-03</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+
+</resources>

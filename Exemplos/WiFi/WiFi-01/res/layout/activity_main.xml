@@ -1,0 +1,26 @@
+<RelativeLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#B0C4DE"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <Button
+        android:id="@+id/btnWifiON"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="78dp"
+        android:text="WIFI ON" />
+
+    <Button
+        android:id="@+id/btnWifiOFF"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btnWifiON"
+        android:layout_below="@+id/btnWifiON"
+        android:layout_marginTop="40dp"
+        android:text="WIFI OFF" />       
+</RelativeLayout>
+
+

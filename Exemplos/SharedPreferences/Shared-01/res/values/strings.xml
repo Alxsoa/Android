@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   <string name="app_name">Shared-01</string>
+   <string name="nome">Nome</string>
+   <string name="apelido">Apelido</string>
+   <string name="salva">Salva</string>
+   <string name="Limpa">Limpa</string>
+   <string name="Altera">Altera</string>
+</resources>

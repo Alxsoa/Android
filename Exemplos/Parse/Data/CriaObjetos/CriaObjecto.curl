@@ -1,0 +1,82 @@
+curl -X POST \
+  -H "X-Parse-Application-Id: fcT80QLTVSwE2Q2trgWjMJ1hbJ4KvYb32UvzWpCP" \
+  -H "X-Parse-REST-API-Key: Q6DaJ9PKiClREPaHTYAqxfCbZcfpMNIJorP3tyMo" \
+  -H "Content-Type: application/json" \
+  -d '{
+        "requests": 
+        [
+          {
+            "method": "POST",
+            "path": "/1/classes/MeusDados",
+            "body": 
+            {
+              "Nome"			: "Alexandre",
+              "SobreNome"	: "Soares",
+              "Sexo"			: "M",
+              "Status"		: "Ativo",
+              "Idade"			: 40
+            }
+          },
+          {
+            "method": "POST",
+            "path": "/1/classes/MeusDados",
+            "body": 
+            {
+              "Nome"			: "João",
+              "SobreNome"	: "Silva",
+              "Sexo"			: "M",
+              "Status"		: "Ativo",
+              "Idade"			: 20
+            }
+          },
+          {
+            "method": "POST",
+            "path": "/1/classes/MeusDados",
+            "body": 
+            {
+              "Nome"			: "Marcelo",
+              "SobreNome"	: "Ardoso",
+              "Sexo"			: "M",
+              "Status"		: "Ativo",
+              "Idade"			: 25
+            }
+          },
+          {
+            "method": "POST",
+            "path": "/1/classes/MeusDados",
+            "body": 
+            {
+              "Nome"			: "Maria",
+              "SobreNome"	: "Silva",
+              "Sexo"			: "F",
+              "Status"		: "Ativo",
+              "Idade"			: 40
+            }
+          },          
+          {
+            "method": "POST",
+            "path": "/1/classes/MeusDados",
+            "body": 
+            {
+              "Nome"			: "Joana",
+              "SobreNome"	: "Silva",
+              "Sexo"			: "F",
+              "Status"		: "Ativo",
+              "Idade"			: 20
+            }
+          },  
+          {
+            "method": "POST",
+            "path": "/1/classes/MeusDados",
+            "body": 
+            {
+              "Nome"			: "Helena",
+              "SobreNome"	: "Joaquina",
+              "Sexo"			: "F",
+              "Status"		: "Ativo",
+              "Idade"			: 25
+            }
+          }                                          
+        ]
+      }' \
+  https://api.parse.com/1/batch

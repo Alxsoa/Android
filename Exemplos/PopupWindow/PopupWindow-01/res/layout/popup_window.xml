@@ -1,0 +1,46 @@
+<RelativeLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp" >
+    
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:background="#B0C4DE"
+        android:orientation="vertical"
+        android:padding="5dp" >
+
+	    <Button
+	        android:id="@+id/idBtnOK"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_alignParentBottom="true"
+	        android:layout_centerHorizontal="true"
+	        android:background="#7f7f7f"
+	        android:text="OK"
+	        android:onClick="MeuPopUpWindow" />
+
+	    <ImageView
+	        android:id="@+id/imageView1"
+	        android:layout_width="150dp"
+	        android:layout_height="150dp"
+	        android:layout_above="@+id/idBtnOK"
+	        android:layout_alignLeft="@+id/idBtnOK"
+	        android:layout_marginBottom="21dp"
+	        android:src="@drawable/androidhomem" />
+
+	    <TextView
+	        android:id="@+id/idTxtInfo"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_alignBottom="@+id/imageView1"
+	        android:layout_marginBottom="60dp"
+	        android:layout_toRightOf="@+id/imageView1"
+	        android:text=""
+	        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    </RelativeLayout>
+</RelativeLayout>

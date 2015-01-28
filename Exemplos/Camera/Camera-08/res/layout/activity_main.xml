@@ -1,0 +1,35 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <SurfaceView
+        android:id="@+id/CameraView"
+        android:layout_width="fill_parent"
+        android:layout_height="350dp" >
+    </SurfaceView>
+
+    <Button
+        android:id="@+id/idBtnNegativo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/CameraView"
+        android:text="Negativo" />
+
+    <Button
+        android:id="@+id/idBtnNormal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/idBtnNegativo"
+        android:text="Normal" />
+
+    <Button
+        android:id="@+id/idBtnSolar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/idBtnNormal"
+        android:text="Solar" />
+
+</RelativeLayout>

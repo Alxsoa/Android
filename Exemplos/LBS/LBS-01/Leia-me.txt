@@ -1,0 +1,8 @@
+//
+// Objetivo
+//				Utilizando LBS recupera a posicao usando a rede de 
+//				GPS
+//
+// Autor
+//				Alexandre Soares
+//

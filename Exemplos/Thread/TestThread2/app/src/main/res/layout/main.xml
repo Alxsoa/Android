@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/startMain"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Start Main Thread" />
+
+    <Button
+        android:id="@+id/startChild"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Start Child Thread" />
+
+    <Button
+        android:id="@+id/sendMsgToMain"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Send Msg To Main" />
+
+    <Button
+        android:id="@+id/sendMsgToChild"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Send Msg To Child" />
+
+    <Button
+        android:id="@+id/postToMain"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Post To Main" />
+
+    <Button
+        android:id="@+id/asyncTask"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Start Async Task" />
+
+</LinearLayout>

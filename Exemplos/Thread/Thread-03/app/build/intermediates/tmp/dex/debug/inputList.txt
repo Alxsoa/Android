@@ -1,0 +1,1 @@
+/Users/alxsoa/Desktop/Curso_de_Android/Dia-2/Exemplos/Thread/Thread-03/app/build/intermediates/classes/debug
