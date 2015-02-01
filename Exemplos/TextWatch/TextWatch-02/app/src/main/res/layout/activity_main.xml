@@ -24,7 +24,7 @@
     <EditText
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:hint="Digite Numeros"
+        android:hint="Digite_Numeros"
         android:maxLength="10"
         android:id="@+id/IdedtCoisas"
         android:layout_marginTop="38dp"
