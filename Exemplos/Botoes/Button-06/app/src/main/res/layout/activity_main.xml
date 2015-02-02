@@ -10,20 +10,16 @@
         android:id="@+id/idBtn1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentTop="true"
-        android:layout_marginLeft="45dp"
-        android:layout_marginTop="172dp"
-        android:text="Botão #1" />
+        android:text="@string/strBotao1"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
 
     <Button
         android:id="@+id/idBtn2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignBaseline="@+id/idBtn1"
-        android:layout_alignBottom="@+id/idBtn1"
-        android:layout_alignParentRight="true"
-        android:layout_marginRight="54dp"
-        android:text="Botão #2" />
+        android:text="@string/strBotao2"
+        android:layout_below="@+id/idBtn1"
+        android:layout_centerHorizontal="true" />
 
 </RelativeLayout>

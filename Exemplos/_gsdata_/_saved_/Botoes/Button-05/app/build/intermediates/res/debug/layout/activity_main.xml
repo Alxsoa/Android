@@ -1,0 +1,36 @@
+<RelativeLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#B0C4DE"
+    tools:context=".MainActivity" >
+
+     <Button
+         android:id="@+id/idBtn03"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_centerHorizontal="true"
+         android:layout_centerVertical="true"
+         android:onClick="btnClickProcessing_03"
+         android:text="Botão #3" />
+
+     <Button
+         android:id="@+id/idBtn01"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_above="@+id/idBtn02"
+         android:layout_alignLeft="@+id/idBtn03"
+         android:onClick="btnClickProcessing_01"
+         android:text="Botão #1" />
+
+     <Button
+         android:id="@+id/idBtn02"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_above="@+id/idBtn03"
+         android:layout_alignLeft="@+id/idBtn01"
+         android:onClick="btnClickProcessing_02"
+         android:text="Botão #2" />
+    
+</RelativeLayout><!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Botoes/Button-05/app/src/main/res/layout/activity_main.xml -->

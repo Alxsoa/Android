@@ -3,8 +3,8 @@
     <!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Botoes/Button-06/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="app_name">Button-06</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="menu_settings">Settings</string>
+    <string name="strBotao1">Botão #1</string>
+    <string name="strBotao2">Botão #2</string>
     <!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Botoes/Button-06/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppBaseTheme" parent="android:Theme.Light">

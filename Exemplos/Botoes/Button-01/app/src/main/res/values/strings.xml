@@ -2,5 +2,5 @@
 <resources>
 
     <string name="app_name">Button-01</string>
-
+    <string name="strBotao">Meu Botão</string>
 </resources>

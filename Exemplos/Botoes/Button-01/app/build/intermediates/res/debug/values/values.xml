@@ -3,6 +3,7 @@
     <!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Botoes/Button-01/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="app_name">Button-01</string>
+    <string name="strBotao">Meu Botão</string>
     <!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Botoes/Button-01/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppBaseTheme" parent="android:Theme.Light">
