@@ -1,0 +1,9 @@
+2015-02-02 19:48:06: -- Analysis Started by User
+2015-02-02 19:48:08: Name 'http-::stackoverflow.com:questions:6776327:how-to-pause-resume-thread-in-android.webloc' in path '/Thread/Links/http-::stackoverflow.com:questions:6776327:how-to-pause-resume-thread-in-android.webloc' contains illegal characters, using name 'http-__stackoverflow.com_questions_6776327_how-to-pause-resume-thread-in-android.webloc' instead
+2015-02-02 19:48:08: Name 'http-::www.tutorialspoint.com:java:java_thread_control.htm.webloc' in path '/Thread/Links/http-::www.tutorialspoint.com:java:java_thread_control.htm.webloc' contains illegal characters, using name 'http-__www.tutorialspoint.com_java_java_thread_control.htm.webloc' instead
+2015-02-02 19:48:11: Changes: 0, Conflicts: 0, CopyTime: 0, CopyState: 0/260, Errors: 0, All: 31977
+2015-02-02 19:48:11: -- Analysis Complete. Time 00:00:05, Speed: 5953 files/s
+2015-02-02 19:48:11: 
+2015-02-02 19:48:13: == Sync Started by User
+2015-02-02 19:48:15: == Sync Complete. Time: 00:00:02, Speed: 0.0/s, OK: 260, Errors: 0
+2015-02-02 19:48:15: 
