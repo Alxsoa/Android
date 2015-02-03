@@ -24,11 +24,11 @@
     <EditText
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:hint="Digite Numeros"
+        android:hint="Digite_Numeros"
         android:maxLength="10"
         android:id="@+id/IdedtCoisas"
         android:layout_marginTop="38dp"
         android:layout_below="@+id/IdlblResultado"
         android:layout_alignParentStart="true" />
 
-</RelativeLayout><!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Dia-1/Exemplos/TextWatch/TextWatch-02/app/src/main/res/layout/activity_main.xml -->
+</RelativeLayout><!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/TextWatch/TextWatch-02/app/src/main/res/layout/activity_main.xml -->

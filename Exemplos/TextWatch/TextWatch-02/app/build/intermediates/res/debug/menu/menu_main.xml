@@ -3,4 +3,4 @@
     <item android:id="@+id/action_settings" android:title="@string/action_settings"
         android:orderInCategory="100" android:showAsAction="never" />
 </menu>
-<!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Dia-1/Exemplos/TextWatch/TextWatch-02/app/src/main/res/menu/menu_main.xml -->
+<!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/TextWatch/TextWatch-02/app/src/main/res/menu/menu_main.xml -->

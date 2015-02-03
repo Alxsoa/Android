@@ -6,8 +6,9 @@ android {
 
     defaultConfig {
         applicationId "com.example.alxsoa.textwatch_01"
-        minSdkVersion 21
+        minSdkVersion 14
         targetSdkVersion 21
+        maxSdkVersion 21
         versionCode 1
         versionName "1.0"
     }

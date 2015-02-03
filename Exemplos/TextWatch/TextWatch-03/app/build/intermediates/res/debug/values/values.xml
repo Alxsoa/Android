@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Dia-1/Exemplos/TextWatch/TextWatch-03/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/TextWatch/TextWatch-03/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
-    <!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Dia-1/Exemplos/TextWatch/TextWatch-03/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/TextWatch/TextWatch-03/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="app_name">TextWatch-03</string>
-    <!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Dia-1/Exemplos/TextWatch/TextWatch-03/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/TextWatch/TextWatch-03/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
         <!-- Customize your theme here. -->

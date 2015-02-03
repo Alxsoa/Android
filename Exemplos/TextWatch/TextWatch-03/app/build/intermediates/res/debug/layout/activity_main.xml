@@ -69,4 +69,4 @@
         android:layout_toEndOf="@+id/textViewPassword" />
 
 </RelativeLayout>
-<!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Dia-1/Exemplos/TextWatch/TextWatch-03/app/src/main/res/layout/activity_main.xml -->
+<!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/TextWatch/TextWatch-03/app/src/main/res/layout/activity_main.xml -->
