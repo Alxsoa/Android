@@ -1,0 +1,2 @@
+/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Dialog/Dialog-04/app/build/intermediates/classes/debug
+/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Dialog/Dialog-04/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-74cc667a78ab70bf39391fc49dcff58b71291219.jar

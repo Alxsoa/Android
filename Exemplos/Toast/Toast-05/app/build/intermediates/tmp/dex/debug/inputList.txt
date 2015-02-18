@@ -1,0 +1,2 @@
+/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Toast/Toast-05/app/build/intermediates/classes/debug
+/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Toast/Toast-05/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-b8ba20a7aabbd679a9a553be36f51001a66f5ad0.jar
