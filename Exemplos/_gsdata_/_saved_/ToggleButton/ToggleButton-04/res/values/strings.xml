@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <string name="app_name">ToggleButton-04</string>
-    <string name="toggle_turn_on">Turn On</string>
-    <string name="toggle_turn_off">Turn Off</string>
-    <string name="btn_display">Display</string>
-
-</resources>
