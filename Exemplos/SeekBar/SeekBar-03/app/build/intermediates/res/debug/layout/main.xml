@@ -1,0 +1,41 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:background="#B0C4DE" 
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+	
+	<ProgressBar
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		style="?android:attr/progressBarStyleHorizontal"
+		android:progress="50"
+		android:max="100"
+		android:secondaryProgress="80"
+		android:layout_margin="5dip" />
+	<ProgressBar
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		style="@style/CustomProgressBar"
+		android:progress="50"
+		android:max="100"
+		android:secondaryProgress="80"
+		android:layout_margin="5dip" />
+	<SeekBar
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:progress="50"
+		android:max="100"
+		android:secondaryProgress="80"
+		android:layout_margin="5dip" />
+	<SeekBar
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:progress="50"
+		android:max="100"
+		style="@style/CustomSeekBar"
+		android:secondaryProgress="80"
+		android:layout_margin="5dip" />
+	
+</LinearLayout>
+<!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/SeekBar/SeekBar-03/app/src/main/res/layout/main.xml -->

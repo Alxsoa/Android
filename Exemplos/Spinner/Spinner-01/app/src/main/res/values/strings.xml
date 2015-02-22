@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Spinner-01</string>
+    <string name="cidades_msg">Escolha uma Cidade</string>
+
+    <string-array name="lista_cidades">
+        <item> </item>
+        <item>Rio de Janeiro</item>
+        <item>São Paulo</item>
+        <item>Belo Horizonte</item>
+        <item>Porto Alegre</item>
+        <item>Brasília</item>
+        <item>Recife</item>
+    </string-array>    
+</resources>

@@ -1,0 +1,7 @@
+<animation-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:drawable="@drawable/arrow_01" android:duration="100" />
+  <item android:drawable="@drawable/arrow_02" android:duration="100" />
+  <item android:drawable="@drawable/arrow_03" android:duration="100" />
+  <item android:drawable="@drawable/arrow_04" android:duration="100" />
+</animation-list><!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/ProgressBar/ProgressBar-06/app/src/main/res/drawable/arrow_animation.xml -->

@@ -1,0 +1,26 @@
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:paddingLeft="10sp"
+    android:paddingRight="10sp"
+    android:paddingTop="10sp" 
+    android:background="#B0C4DE" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:text="Escolha uma Cidade"
+        android:textSize="20sp" />
+
+    <Spinner
+        android:id="@+id/spntimes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
+
+<!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Spinner/Spinner-04/app/src/main/res/layout/activity_main.xml -->

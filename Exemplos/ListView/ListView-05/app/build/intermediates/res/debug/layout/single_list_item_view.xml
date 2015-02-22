@@ -1,0 +1,19 @@
+<LinearLayout
+	  xmlns:android="http://schemas.android.com/apk/res/android"
+	  android:orientation="vertical"
+	  android:layout_width="match_parent"
+	  android:layout_height="match_parent">
+
+		<TextView
+		    android:id="@+id/meses"
+		    android:layout_width="fill_parent"
+		    android:layout_height="match_parent"
+		    android:gravity="center_vertical|center_horizontal"
+		    android:padding="10dip"
+		    android:textColor="#ffffff"
+		    android:textSize="25sp"
+		    android:textStyle="bold" />
+  			  
+</LinearLayout>
+
+<!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/ListView/ListView-05/app/src/main/res/layout/single_list_item_view.xml -->
