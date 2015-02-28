@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Layout-06</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="txtEu">EU</string>
+    <string name="txtTu">TU</string>
+    <string name="txtEles">ELES</string>
+</resources>

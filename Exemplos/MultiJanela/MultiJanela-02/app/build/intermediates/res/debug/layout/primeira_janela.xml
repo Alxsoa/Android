@@ -1,0 +1,46 @@
+<RelativeLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#B0C4DE"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PrimeiraJanelaActivity" >
+
+    <Button
+        android:id="@+id/btnSair"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/btnIniciar"
+        android:layout_alignBottom="@+id/btnIniciar"
+        android:layout_alignRight="@+id/imageView1"
+        android:text="Sair" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="72dp"
+        android:src="@drawable/hp" />
+
+    <Button
+        android:id="@+id/btnIniciar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/imageView1"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="82dp"
+        android:text="Iniciar" />
+
+    <TextView
+        android:id="@+id/txtPrimario"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btnIniciar"
+        android:layout_alignLeft="@+id/btnIniciar"
+        android:layout_alignRight="@+id/btnSair"
+        android:layout_marginBottom="45dp"
+        android:text=" " />
+
+</RelativeLayout><!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/MultiJanela/MultiJanela-02/app/src/main/res/layout/primeira_janela.xml -->

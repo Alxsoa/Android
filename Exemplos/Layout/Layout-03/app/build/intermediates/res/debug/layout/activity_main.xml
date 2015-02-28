@@ -1,0 +1,20 @@
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:background="#B0C4DE"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"	>
+	
+	<TextView
+		android:layout_width="105dp"
+		android:layout_height="wrap_content"
+		android:text="@string/hello_world" 	/>
+	
+	<Button
+		android:layout_width="150dp"
+		android:layout_height="50dp"
+    	android:text="@string/Botao" />
+</LinearLayout>
+
+
+<!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Layout/Layout-03/app/src/main/res/layout/activity_main.xml -->

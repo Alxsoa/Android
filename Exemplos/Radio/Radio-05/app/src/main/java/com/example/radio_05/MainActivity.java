@@ -8,11 +8,11 @@ import android.widget.RadioGroup;
 public class MainActivity extends Activity 
 {
 	private static final String[] Botoes = { 
-												"Op√ß√£o Bot√£o 01",
-												"Op√ß√£o Bot√£o 02",
-												"Op√ß√£o Bot√£o 03",
-												"Op√ß√£o Bot√£o 04",
-												"Op√ß√£o Bot√£o 05"
+												"Opção Botão 01",
+												"Opção Botão 02",
+												"Opção Botão 03",
+												"Opção Botão 04",
+												"Opção Botão 05"
 											};
 	 
 	 public void onCreate(Bundle savedInstanceState) 

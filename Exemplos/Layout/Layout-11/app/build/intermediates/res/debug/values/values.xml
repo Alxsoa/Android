@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Layout/Layout-11/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Layout-11</string>
+    <string name="btnCancelar">  Cancelar  </string>
+    <string name="btnComprar">  Comprar   </string>
+    <string name="hello_world">Hello world!</string>
+    <string name="txtPrecoA">R$100,00</string>
+    <string name="txtPrecoB">R$200,00</string>
+    <string name="txtPrecoC">R$300,00</string>
+    <string name="txtProdutoA">Produto A</string>
+    <string name="txtProdutoB">Produto B</string>
+    <string name="txtProdutoC">Produto C</string>
+    <string name="txtProdutos">Lista de Produtos</string>
+    <!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Layout/Layout-11/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

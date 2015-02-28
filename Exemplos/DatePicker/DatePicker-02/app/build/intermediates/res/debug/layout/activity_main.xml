@@ -1,0 +1,16 @@
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+ 
+    <CalendarView
+        android:id="@+id/calendar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+ 
+</LinearLayout>
+
+<!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/DatePicker/DatePicker-02/app/src/main/res/layout/activity_main.xml -->

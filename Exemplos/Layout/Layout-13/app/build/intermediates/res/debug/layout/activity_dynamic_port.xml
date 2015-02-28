@@ -1,0 +1,21 @@
+<RelativeLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#B0C4DE"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:padding="@dimen/padding_medium"
+        android:text="@string/portrait_orientation"
+        android:textColor="#FA00FA"
+        android:textSize="20dp"
+        android:textStyle="bold|italic"
+        tools:context=".MainActivity" />
+
+</RelativeLayout>
+<!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Layout/Layout-13/app/src/main/res/layout/activity_dynamic_port.xml -->

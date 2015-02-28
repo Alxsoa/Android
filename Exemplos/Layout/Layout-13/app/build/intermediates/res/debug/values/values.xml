@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Layout/Layout-13/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Layout/Layout-13/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Layout-13</string>
+    <string name="bt_automatic_orientation">Orientação Automática</string>
+    <string name="bt_restricted_orientation">Restrição de Orientação</string>
+    <string name="landscape_orientation">Estamos com Orientação Landscape</string>
+    <string name="portrait_orientation">Estamos com Orientação Portrait</string>
+    <string name="title_acivity_restricted">Restringindo a Orientação</string>
+    <string name="title_activity_automatic">Detecção da Orientação</string>
+    <string name="title_activity_main">Gerencia de Orientação</string>
+    <!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Layout/Layout-13/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>

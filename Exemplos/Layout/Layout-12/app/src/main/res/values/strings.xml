@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Layout-12</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="txtMsg">Meu Texto</string>
+    <string name="txtaz">a-z</string>
+    <string name="txtAZ">A-Z</string>
+</resources>

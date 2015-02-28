@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Layout-07</string>
+    <string name="TxtEnviar">Enviar</string>
+    <string name="TxtObservacao">Observações</string>    
+    <string name="TxtEmail">Email</string>
+    <string name="TxtNome">Nome</string>
+</resources>

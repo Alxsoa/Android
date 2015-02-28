@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Layout-08</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="TxtMsg1">"Texto Usando Peso 1"</string>    
+    <string name="TxtMsg2">"Texto Usando Peso 2"</string>
+    <string name="TxtMsg3">"Texto Usando Peso 3"</string>
+</resources>

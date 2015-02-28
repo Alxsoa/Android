@@ -1,0 +1,46 @@
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" 
+    android:background="#B0C4DE" >
+
+    <RadioGroup
+        android:id="@+id/radioSex"
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <RadioButton
+            android:id="@+id/Botao_01"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Opção Botão 01" />
+        
+        <RadioButton
+            android:id="@+id/Botao_02"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Opção Botão 02" 
+            android:checked="true" />
+                
+        <RadioButton
+            android:id="@+id/Botao_03"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Opção Botão 03"  />
+                        
+        <RadioButton
+            android:id="@+id/Botao_04"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Opção Botão 04" />
+                                
+        <RadioButton
+            android:id="@+id/Botao_05"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Opção Botão 05" />
+        
+    </RadioGroup>
+</LinearLayout><!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Radio/Radio-03/app/src/main/res/layout/main.xml -->
