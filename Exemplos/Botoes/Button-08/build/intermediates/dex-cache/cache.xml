@@ -9,18 +9,18 @@
         <dex dex="/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Botoes/Button-08/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-6658c117293958a7383bcbb346a57fefebf27ee4.jar" />
     </item>
     <item
-        jar="/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Botoes/Button-08/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Botoes/Button-08/app/build/intermediates/pre-dexed/debug/classes-ea6892fe1a0a121a17ba0c319729d23bd6eb7036.jar" />
-    </item>
-    <item
         jar="/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Botoes/Button-08/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
         <dex dex="/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Botoes/Button-08/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-e053afe084ec202509061e94b4ffadce786c5bec.jar" />
+    </item>
+    <item
+        jar="/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Botoes/Button-08/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Botoes/Button-08/app/build/intermediates/pre-dexed/debug/classes-ea6892fe1a0a121a17ba0c319729d23bd6eb7036.jar" />
     </item>
     <item
         jar="/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Botoes/Button-08/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"

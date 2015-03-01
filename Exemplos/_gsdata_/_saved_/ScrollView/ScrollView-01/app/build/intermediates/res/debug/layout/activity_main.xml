@@ -1,0 +1,23 @@
+<ScrollView 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#B0C4DE"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/MeuLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+        
+        <!-- 
+        	Aqui Entra as Linhas
+         -->
+              
+    </LinearLayout>
+</ScrollView>
+
+
+
+
+<!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/ScrollView/ScrollView-01/app/src/main/res/layout/activity_main.xml -->

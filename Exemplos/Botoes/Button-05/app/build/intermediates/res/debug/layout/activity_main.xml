@@ -21,6 +21,7 @@
          android:layout_height="wrap_content"
          android:layout_above="@+id/idBtn02"
          android:layout_alignLeft="@+id/idBtn03"
+         android:layout_alignStart="@+id/idBtn03"
          android:onClick="btnClickProcessing_01"
          android:text="@string/strBotao1" />
 

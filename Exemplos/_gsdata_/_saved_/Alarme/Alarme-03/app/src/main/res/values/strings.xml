@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Alarme-03</string>
+	<string name="btnTxtCancela">Cancela Repetição do Timer</string>
+	<string name="btnTxtInicio">Inicia Repetição do Timer</string>
+</resources>

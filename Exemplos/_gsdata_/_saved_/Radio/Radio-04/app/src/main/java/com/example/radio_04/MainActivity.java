@@ -31,7 +31,7 @@ public class MainActivity extends Activity
 		  public void onClick(View v) 
 		  {
 			  Toast.makeText (	MainActivity.this,
-						  		"Op√ß√£o 3 Foi Selecionada",
+						  		"Opção 3 Foi Selecionada",
 						  		Toast.LENGTH_LONG).show();
 		  }
 	  };

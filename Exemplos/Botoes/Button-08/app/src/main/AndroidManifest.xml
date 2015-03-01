@@ -3,11 +3,6 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.alxsoa.button_08" >
 
-    <uses-sdk
-        android:minSdkVersion="14"
-        android:targetSdkVersion="21"
-        android:maxSdkVersion="21" />
-
     <application
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"

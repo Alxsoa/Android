@@ -1,0 +1,33 @@
+<RelativeLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#B0C4DE"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PrimeiraJanelaActivity" >
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="114dp"
+        android:src="@drawable/hp" />
+    <Button
+        android:id="@+id/btnIniciar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/imageView1"
+        android:layout_below="@+id/imageView1"
+        android:layout_marginTop="56dp"
+        android:text="Iniciar" />
+    <Button
+        android:id="@+id/btnSair"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/btnIniciar"
+        android:layout_alignBottom="@+id/btnIniciar"
+        android:layout_alignRight="@+id/imageView1"
+        android:text="Sair" />
+</RelativeLayout>
+

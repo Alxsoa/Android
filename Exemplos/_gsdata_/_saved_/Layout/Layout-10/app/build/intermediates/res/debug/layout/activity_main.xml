@@ -1,0 +1,58 @@
+<TableLayout 
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:background="#B0C4DE"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:shrinkColumns="2">
+
+	<TableRow>
+	    <TextView
+	        android:padding="10dp" 
+	        android:text="@string/txtColuna1"
+	        android:textColor="#228B22"
+	        android:textStyle="bold" />
+
+	    <TextView 
+	        android:padding="10dp" 
+	        android:text="@string/txtColuna2"         
+	        android:textColor="#228B22"
+          	android:textStyle="bold" />
+	</TableRow>
+
+	<TableRow>
+	    <TextView 
+	        android:padding="10dp" 
+	        android:textColor="#228B22"
+          	android:textStyle="bold"
+	        android:text="@string/txtColuna1" />
+	    <TextView 
+	        android:padding="10dp" 
+	        android:textColor="#228B22"
+          	android:textStyle="bold"
+	        android:text="@string/txtColuna2"/>
+	    <TextView 
+	        android:padding="10dp" 
+	        android:textColor="#228B22"
+          	android:textStyle="bold"
+	        android:text="@string/txtTexto" />
+	</TableRow>
+
+	<TableRow
+	    android:padding="10dp" >	    
+	    <TextView 
+	        android:textColor="#228B22"
+          	android:textStyle="bold"
+	        android:text="@string/txtColuna1" />
+	    <TextView 
+	        android:textColor="#228B22"
+          	android:textStyle="bold"
+	        android:text="@string/txtColuna2" />
+	    <TextView 
+	        android:textColor="#228B22"
+          	android:textStyle="bold"
+	        android:text="@string/txtColuna3" />
+	</TableRow>
+	
+</TableLayout>
+<!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Layout/Layout-10/app/src/main/res/layout/activity_main.xml -->

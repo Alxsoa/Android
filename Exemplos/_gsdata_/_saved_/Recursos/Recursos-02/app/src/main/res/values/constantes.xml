@@ -1,0 +1,8 @@
+<resources>
+    <integer-array name="Primos">
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>7</item>
+    </integer-array>
+</resources>

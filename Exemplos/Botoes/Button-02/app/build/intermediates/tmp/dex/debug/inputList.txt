@@ -1,2 +1,4 @@
 /Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Botoes/Button-02/app/build/intermediates/classes/debug
-/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Botoes/Button-02/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-74cc667a78ab70bf39391fc49dcff58b71291219.jar
+/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Botoes/Button-02/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-6658c117293958a7383bcbb346a57fefebf27ee4.jar
+/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Botoes/Button-02/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-63f9f4dce3126ef416b5346908a2149410d94671.jar
+/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Botoes/Button-02/app/build/intermediates/pre-dexed/debug/classes-4784e3593f949db645add13f33f77b3da78b24f7.jar

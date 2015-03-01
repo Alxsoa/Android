@@ -1,13 +1,6 @@
 <manifest 
     xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.button_05"
-    android:versionCode="1"
-    android:versionName="1.0" >
-
-    <uses-sdk
-        android:minSdkVersion="14"
-        android:targetSdkVersion="21"
-        android:maxSdkVersion="21" />
+    package="com.example.button_05">
 
     <application
         android:allowBackup="true"

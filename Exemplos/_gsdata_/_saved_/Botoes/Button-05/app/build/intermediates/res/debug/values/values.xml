@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Botoes/Button-05/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Button-05</string>
+    <string name="strBotao1">Botão #1</string>
+    <string name="strBotao2">Botão #2</string>
+    <string name="strBotao3">Botão #3</string>
+    <!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Botoes/Button-05/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

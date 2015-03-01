@@ -1,0 +1,18 @@
+<RelativeLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#B0C4DE"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/idTxtMsg4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="198dp"
+        android:gravity="center_horizontal|fill_horizontal"
+        android:text="TextView" />
+
+</RelativeLayout><!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/MultiJanela/MultiJanela-05/app/src/main/res/layout/segunda_janela.xml -->

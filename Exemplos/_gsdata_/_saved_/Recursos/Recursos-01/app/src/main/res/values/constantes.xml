@@ -1,0 +1,4 @@
+<resources>
+    <integer name="TempMin">0</integer>
+    <integer name="TempMax">100</integer>
+</resources>

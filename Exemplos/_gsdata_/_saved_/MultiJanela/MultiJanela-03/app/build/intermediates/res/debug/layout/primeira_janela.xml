@@ -1,0 +1,51 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#B0C4DE"
+    tools:context=".PrimeiraJanelaActivity" >
+
+    <EditText
+        android:id="@+id/idTxtMsg1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="24dp"
+        android:ems="10"
+        android:hint="Dig um Texto" >
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/idTxtMsg2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/idTxtMsg1"
+        android:layout_below="@+id/idTxtMsg1"
+        android:ems="10"
+        android:hint="Dig um Número"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/idTxtMsg3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/idTxtMsg1"
+        android:layout_below="@+id/idTxtMsg2"
+        android:ems="10"
+        android:hint="Dig um Número Decimal"
+        android:inputType="numberDecimal" />
+
+    <Button
+        android:id="@+id/idBtnEnvia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/idTxtMsg3"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="27dp"
+        android:gravity="center_vertical|center_horizontal|fill_horizontal"
+        android:text="Envia" />
+
+</RelativeLayout><!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/MultiJanela/MultiJanela-03/app/src/main/res/layout/primeira_janela.xml -->

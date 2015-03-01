@@ -1,0 +1,27 @@
+<RelativeLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#B0C4DE"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+
+    <ImageButton
+        android:id="@+id/idImgBotao"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/astronaut"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/idTxtMsg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/idImgBotao"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="98dp" />
+
+</RelativeLayout>
+
+<!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Botoes/Button-02/app/src/main/res/layout/activity_main.xml -->

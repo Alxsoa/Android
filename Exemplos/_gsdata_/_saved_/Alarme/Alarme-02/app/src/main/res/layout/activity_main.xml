@@ -1,0 +1,20 @@
+<RelativeLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:background="#B0C4DE"
+    android:orientation="vertical">
+
+	<Button
+	    android:id="@+id/idBtnAlarme"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_alignParentTop="true"
+	    android:layout_centerHorizontal="true"
+	    android:layout_marginTop="179dp"
+	    android:onClick="MeuTimer"
+	    android:padding="@dimen/padding_medium"
+	    android:text="@string/idTxtAlarme" />
+	
+</RelativeLayout>

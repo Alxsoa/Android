@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Intent-02</string>
+    <string name="txtBtnView">Navegador com Ação View</string>
+    <string name="txtBtnLaunch">Navegador com Ação Launch</string>
+    <string name="start_browser_c">Exception Condition</string>
+    
+</resources>

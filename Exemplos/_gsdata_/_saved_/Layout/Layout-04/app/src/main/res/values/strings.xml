@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Layout-04</string>
+    <string name="BotaoSim">Sim</string>
+    <string name="BotaoNao">Não</string>
+</resources>
