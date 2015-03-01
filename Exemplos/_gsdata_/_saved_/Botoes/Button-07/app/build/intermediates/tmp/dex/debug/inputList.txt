@@ -1,2 +1,4 @@
 /Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Botoes/Button-07/app/build/intermediates/classes/debug
-/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Botoes/Button-07/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-74cc667a78ab70bf39391fc49dcff58b71291219.jar
+/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Botoes/Button-07/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-6658c117293958a7383bcbb346a57fefebf27ee4.jar
+/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Botoes/Button-07/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-c268b5605a6b7a47ab857b997098c4d337fdaae4.jar
+/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Botoes/Button-07/app/build/intermediates/pre-dexed/debug/classes-1e01d659aeece914ae073a87f79e1bc52546fac8.jar

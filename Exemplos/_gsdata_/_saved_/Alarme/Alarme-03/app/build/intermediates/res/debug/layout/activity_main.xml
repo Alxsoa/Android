@@ -20,8 +20,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_above="@+id/idBtnInicia"
-        android:layout_alignLeft="@+id/idBtnInicia"
-        android:layout_alignRight="@+id/idBtnInicia"
+        android:layout_alignStart="@+id/idBtnInicia"
+        android:layout_alignEnd="@+id/idBtnInicia"
         android:layout_marginBottom="16dp"
         android:onClick="iniciaRepeticaoTimer"
         android:text="@string/btnTxtInicio" />

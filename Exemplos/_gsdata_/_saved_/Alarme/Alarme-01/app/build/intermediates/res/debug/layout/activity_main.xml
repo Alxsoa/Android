@@ -1,6 +1,5 @@
 <RelativeLayout 
     xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent" 
     android:background="#B0C4DE"
@@ -10,7 +9,6 @@
 	    android:id="@+id/idAlarme"
 	    android:layout_width="wrap_content"
 	    android:layout_height="wrap_content"
-	    android:layout_below="@+id/btnAlarme"
 	    android:onClick="MeuTimer"
 	    android:layout_centerHorizontal="true"
 	    android:layout_marginTop="36dp"

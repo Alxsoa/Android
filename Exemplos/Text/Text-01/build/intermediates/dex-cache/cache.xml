@@ -2,11 +2,25 @@
 <items version="2" >
 
     <item
-        jar="/Applications/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jar="/Applications/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Text/Text-01/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-74cc667a78ab70bf39391fc49dcff58b71291219.jar" />
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Text/Text-01/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-6658c117293958a7383bcbb346a57fefebf27ee4.jar" />
+    </item>
+    <item
+        jar="/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Text/Text-01/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Text/Text-01/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-4f06e7331d7b234b44fb3926cd9d8d29ace80266.jar" />
+    </item>
+    <item
+        jar="/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Text/Text-01/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Text/Text-01/app/build/intermediates/pre-dexed/debug/classes-552759c1a5c17c2a464ef69df7c6639dae53d70e.jar" />
     </item>
 
 </items>
