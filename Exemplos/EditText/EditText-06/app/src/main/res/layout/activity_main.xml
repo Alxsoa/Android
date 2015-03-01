@@ -11,6 +11,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_marginTop="155dp"
+        android:inputType="text"
         android:ems="10"
         android:maxLength="5" >
         <requestFocus />
@@ -21,7 +22,8 @@
         android:layout_height="wrap_content"
         android:layout_alignBottom="@+id/idText"
         android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
         android:layout_marginBottom="37dp"
-        android:text="Limitando o Preenchimento" />
+        android:text="@string/txtMsg" />
 
 </RelativeLayout>

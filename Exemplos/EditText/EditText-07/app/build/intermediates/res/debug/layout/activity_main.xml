@@ -11,7 +11,8 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_marginTop="155dp"
-        android:hint="Limitando o Preenchimento"  
+        android:inputType="text"
+        android:hint="@string/txtMsg"
         android:ems="10"
         android:maxLength="5" >
         <requestFocus />
