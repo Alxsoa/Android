@@ -10,16 +10,19 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:layout_alignLeft="@+id/edtSenha"
+        android:layout_alignStart="@+id/edtSenha"
         android:layout_alignParentTop="true"
         android:layout_alignRight="@+id/edtSenha"
+        android:layout_alignEnd="@+id/edtSenha"
         android:layout_marginTop="19dp"
-        android:text="Senha" />
+        android:text="@string/txtSenha" />
 
     <EditText
         android:id="@+id/edtSenha"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignLeft="@+id/edtSenhaNumerica"
+        android:layout_alignStart="@+id/edtSenhaNumerica"
         android:layout_below="@+id/txtView1"
         android:layout_marginTop="14dp"
         android:ems="10"
@@ -30,18 +33,22 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:layout_alignLeft="@+id/edtSenha"
+        android:layout_alignStart="@+id/edtSenha"
         android:layout_alignRight="@+id/edtSenha"
+        android:layout_alignEnd="@+id/edtSenha"
         android:layout_below="@+id/edtSenha"
         android:layout_marginTop="24dp"
-        android:text="Senha Numerica" />
+        android:text="@string/txtSenhaNumerica" />
 
     <EditText
         android:id="@+id/edtSenhaNumerica"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
         android:layout_below="@+id/txtView2"
         android:layout_marginLeft="24dp"
+        android:layout_marginStart="24dp"
         android:layout_marginTop="14dp"
         android:ems="10"
         android:inputType="numberPassword" >
@@ -54,6 +61,6 @@
         android:layout_below="@+id/edtSenhaNumerica"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="70dp"
-        android:text="OK" />
+        android:text="@string/txtBotao" />
 
 </RelativeLayout>

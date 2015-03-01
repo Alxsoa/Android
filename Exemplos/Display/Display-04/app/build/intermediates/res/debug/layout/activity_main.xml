@@ -1,7 +1,9 @@
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#B0C4DE"
     tools:context=".MainActivity" >
 
     <TextView
@@ -9,6 +11,6 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
-        android:text="Meu Layout" />
+        android:text="@string/txtMsg" />
 
 </RelativeLayout><!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Display/Display-04/app/src/main/res/layout/activity_main.xml -->

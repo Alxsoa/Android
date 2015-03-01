@@ -1,1 +1,4 @@
 /Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Display/Display-03/app/build/intermediates/classes/debug
+/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Display/Display-03/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-6658c117293958a7383bcbb346a57fefebf27ee4.jar
+/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Display/Display-03/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-a6716e76ec6b28092853358403c05e89dbaa1ef0.jar
+/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Display/Display-03/app/build/intermediates/pre-dexed/debug/classes-807b2dcefdf0dbf283dc86c4cdbde9f2057681fd.jar

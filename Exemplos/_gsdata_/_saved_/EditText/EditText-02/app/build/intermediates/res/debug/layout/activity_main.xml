@@ -10,17 +10,20 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
         android:layout_marginTop="146dp"
-        android:text="Preenchimento Seletivo" />
+        android:text="@string/txtMsg"/>
 
     <EditText
         android:id="@+id/editText4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
         android:layout_below="@+id/textView1"
         android:layout_marginTop="18dp"
+        android:inputType="number"
         android:digits="012345"
         android:ems="10" />
 

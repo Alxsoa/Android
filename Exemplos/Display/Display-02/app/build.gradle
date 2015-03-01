@@ -9,6 +9,8 @@ android {
         minSdkVersion 14
         targetSdkVersion 21
         maxSdkVersion 21
+        versionCode 1
+        versionName "1.0"
     }
 
     buildTypes {
@@ -20,5 +22,5 @@ android {
 }
 
 dependencies {
-    compile 'com.android.support:support-v4:18.0.0'
+    compile 'com.android.support:support-v4:21.0.3'
 }

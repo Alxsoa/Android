@@ -1,2 +1,4 @@
 /Users/alxsoa/Desktop/Curso_de_Android/Exemplos/EditText/EditText-01/app/build/intermediates/classes/debug
-/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/EditText/EditText-01/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-74cc667a78ab70bf39391fc49dcff58b71291219.jar
+/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/EditText/EditText-01/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-6658c117293958a7383bcbb346a57fefebf27ee4.jar
+/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/EditText/EditText-01/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-72f7c2ca40cfcce0e1eaa4189cd9916433ea314b.jar
+/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/EditText/EditText-01/app/build/intermediates/pre-dexed/debug/classes-c603bfd59dccaa02558a541f8668ebc46aff85d7.jar

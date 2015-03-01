@@ -2,5 +2,6 @@
 <resources>
 
     <string name="app_name">Display-04</string>
+    <string name="txtMsg">Meu Layout</string>
 
 </resources>

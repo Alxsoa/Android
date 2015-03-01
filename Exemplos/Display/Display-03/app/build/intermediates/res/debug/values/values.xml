@@ -3,6 +3,7 @@
     <!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Display/Display-03/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="app_name">Display-03</string>
+    <string name="txtMsg">Meu Layout</string>
     <!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Display/Display-03/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppBaseTheme" parent="android:Theme.Light">
