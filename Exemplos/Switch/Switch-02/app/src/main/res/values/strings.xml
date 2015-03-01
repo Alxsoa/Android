@@ -1,5 +1,7 @@
 <resources>
 
     <string name="app_name">Switch-02</string>
-    <string name="flash">Flash</string>
+    <string name="txtFlash">Flash</string>
+    <string name="txtVibrar">Vibrar</string>
+
 </resources>

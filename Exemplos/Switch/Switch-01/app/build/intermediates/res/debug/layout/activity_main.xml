@@ -17,17 +17,18 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="76dp"
-        android:text="Vibrar " />
+        android:text="@string/txtVibrar" />
 
     <Switch
         android:id="@+id/switch2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignLeft="@+id/switch1"
+        android:layout_alignStart="@+id/switch1"
         android:layout_below="@+id/switch1"
         android:layout_marginTop="18dp"
         android:checked="true"
-        android:text="Flash " />
+        android:text="@string/txtFlash" />
         
 </RelativeLayout>
 <!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Switch/Switch-01/app/src/main/res/layout/activity_main.xml -->

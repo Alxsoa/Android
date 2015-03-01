@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/MultiLingua/Multilingua-01/app/src/main/res/values-fr/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Emplacement-01</string>
+    <string name="hello_world">Bonjour Tout le Monde</string>
+</resources>
