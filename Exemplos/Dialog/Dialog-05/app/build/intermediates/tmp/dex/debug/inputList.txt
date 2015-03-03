@@ -1,2 +1,4 @@
 /Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Dialog/Dialog-05/app/build/intermediates/classes/debug
-/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Dialog/Dialog-05/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-74cc667a78ab70bf39391fc49dcff58b71291219.jar
+/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Dialog/Dialog-05/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-6658c117293958a7383bcbb346a57fefebf27ee4.jar
+/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Dialog/Dialog-05/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-769ec79ec937c0d7cb6090276bd1c230c49b4bce.jar
+/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Dialog/Dialog-05/app/build/intermediates/pre-dexed/debug/classes-d0a86b5f29dba1a71b5ba9ec656bb36e8cf2746f.jar

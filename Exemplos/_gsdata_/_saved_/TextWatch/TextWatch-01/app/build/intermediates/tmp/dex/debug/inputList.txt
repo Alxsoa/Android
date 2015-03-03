@@ -1,0 +1,1 @@
+/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/TextWatch/TextWatch-01/app/build/intermediates/classes/debug

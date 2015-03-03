@@ -1,1 +1,4 @@
 /Users/alxsoa/Desktop/Curso_de_Android/Exemplos/TextWatch/TextWatch-01/app/build/intermediates/classes/debug
+/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/TextWatch/TextWatch-01/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-6658c117293958a7383bcbb346a57fefebf27ee4.jar
+/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/TextWatch/TextWatch-01/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-4a6423157d34a4fe823642373d31923e144946da.jar
+/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/TextWatch/TextWatch-01/app/build/intermediates/pre-dexed/debug/classes-5f85ea30bf86bce829f8f01ac3551438f4e9e78b.jar

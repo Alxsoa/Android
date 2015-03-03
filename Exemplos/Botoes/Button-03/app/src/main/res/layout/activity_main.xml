@@ -12,5 +12,4 @@
         android:background="@drawable/meu_botao"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true" />
-    
 </RelativeLayout>

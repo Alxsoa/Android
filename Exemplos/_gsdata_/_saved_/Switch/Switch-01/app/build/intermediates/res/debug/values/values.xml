@@ -7,6 +7,8 @@
     <!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Switch/Switch-01/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="app_name">Switch-01</string>
+    <string name="txtFlash">Flash</string>
+    <string name="txtVibrar">Vibrar</string>
     <!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Switch/Switch-01/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppBaseTheme" parent="android:Theme.Light">

@@ -1,0 +1,17 @@
+<RelativeLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"    
+    android:background="#B0C4DE"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    
+    <Button android:id="@+id/idBtnAlertaUmBotao"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Alerta com uma Lista"
+        android:padding="10dip"
+        android:layout_marginTop="40dip">
+    </Button>
+
+</RelativeLayout>
+<!-- From: file:/Users/alxsoa/Desktop/Curso_de_Android/Exemplos/Dialog/Dialog-04/app/src/main/res/layout/activity_main.xml -->
